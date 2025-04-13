@@ -1,0 +1,42 @@
+@model IEnumerable<ViewInventoryModel>
+
+@{
+    ViewData["Title"] = "View Inventory";
+}
+
+<h2>View Inventory</h2>
+
+<table class="table">
+    <thead>
+    <tr>
+        <th>Product Name</th>
+        <th>Category</th>
+        <th>Price</th>
+        <th>Quantity</th>
+    </tr>
+    </thead>
+    <tbody>
+    @if (Model != null)
+    {
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>@product.name</td>
+                <td>@product.category</td>
+                <td>@product.price</td>
+                <td>@product.quantity</td>
+                <td>
+                    @if (product.quantity > 0)
+                    {
+                        <a asp-action="AddToCart" asp-route-id="@product.id" class="btn btn-primary btn-sm">Add to Cart</a>
+                    }
+                    else
+                    {
+                        <button class="btn btn btn-secondary btn-sm" disabled>Out of Stock</button>
+                    }
+                </td>
+            </tr>
+        }
+    }
+    </tbody>
+</table>

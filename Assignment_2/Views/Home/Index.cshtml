@@ -1,0 +1,104 @@
+﻿<link rel="stylesheet" type="text/css" href="~/css/styles.css">
+
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h1>Products</h1>
+
+<div class="form-group">
+    <label for="searchBar">Search:</label>
+    <input type="text" id="searchBar" name="searchString" class="form-control" placeholder="Search by name" oninput="searchProducts()" />
+</div>
+
+<div>
+    <label>Category:</label>
+    <select id="categoryFilter">
+
+    </select>
+
+    <label>Price Range:</label>
+    <input type="text" id="priceRangeFilter" />
+
+    <label>Low Stock:</label>
+    <input type="checkbox" id="lowStockFilter" />
+</div>
+
+
+<div>
+    <label>Sort by:</label>
+    <select id="sortOptions">
+        <option value="price">Price</option>
+        <option value="quantity">Quantity</option>
+        <option value="name">Name</option>
+    </select>
+</div>
+
+<div>
+    <a asp-controller="Home" asp-action="Create" class="btn btn-primary">Add New Item</a>
+    <a asp-controller="Home" asp-action="Edit" class="btn btn-primary">Edit Item</a>
+    <a asp-controller="Home" asp-action="Delete" class="btn btn-primary">Remove Item</a> 
+</div>
+
+<table class="table">
+    
+    <thead>
+    <tr>
+        <th>Product Name</th>
+        <th>Category</th>
+        <th>Price</th>
+        <th>Qty</th>
+        <th> </th>
+    </tr>
+    </thead>
+    
+    @if (Model != null && Model.Any())
+    {
+        <tbody>
+        @foreach (var products in Model)
+        {
+            <tr>
+                <td>@products.Name</td>
+                <td>@products.Category</td>
+                <td>@products.Price</td>
+                <td>@products.Qty</td>
+                <td>
+                    <input type="checkbox" name="selected" value="@products.Selected">
+                </td>
+                
+                <td>
+                    @if (products.Qty < 10)
+                    {
+                        <span class="text-warning">Low Stock</span>
+                    }
+                </td>
+            </tr> 
+            
+        }
+        </tbody>
+    }
+    
+</table>
+
+@section Scripts {
+    <script>
+        function searchProducts() {
+            let searchString = document.getElementById("searchBar").value.toLowerCase();
+            let table = document.querySelector(".table tbody");
+            let rows = table.getElementsByTagName("tr");
+            let found = false;
+
+            for (let i = 0; i < rows.length; i++) {
+                let productName = rows[i].getElementsByTagName("td")[0].innerText.toLowerCase();
+                if (productName.includes(searchString)) {
+                    rows[i].style.display = "";
+                    found = true;
+                } else {
+                    rows[i].style.display = "none";
+                }
+            }
+        }
+    </script>
+}
+

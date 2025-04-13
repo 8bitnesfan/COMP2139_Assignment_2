@@ -1,0 +1,113 @@
+is_global = true
+build_property.TargetFramework = net9.0
+build_property.TargetFramework = net9.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Assignment_1
+build_property.RootNamespace = Assignment_1
+build_property.ProjectDir = C:\Projects\COMP-2139\TEMP\wednesday\comp2139_assignment_2\comp2139_assignment_1-main\Assignment_2\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Projects\COMP-2139\TEMP\wednesday\comp2139_assignment_2\comp2139_assignment_1-main\Assignment_2
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Projects/COMP-2139/TEMP/wednesday/comp2139_assignment_2/comp2139_assignment_1-main/Assignment_2/Views/Account/ForgotPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/COMP-2139/TEMP/wednesday/comp2139_assignment_2/comp2139_assignment_1-main/Assignment_2/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/COMP-2139/TEMP/wednesday/comp2139_assignment_2/comp2139_assignment_1-main/Assignment_2/Views/Account/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/COMP-2139/TEMP/wednesday/comp2139_assignment_2/comp2139_assignment_1-main/Assignment_2/Views/Account/register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxyZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/COMP-2139/TEMP/wednesday/comp2139_assignment_2/comp2139_assignment_1-main/Assignment_2/Views/Account/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/COMP-2139/TEMP/wednesday/comp2139_assignment_2/comp2139_assignment_1-main/Assignment_2/Views/Admin/ManageInventory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTWFuYWdlSW52ZW50b3J5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/COMP-2139/TEMP/wednesday/comp2139_assignment_2/comp2139_assignment_1-main/Assignment_2/Views/Error/404NotFound.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJyb3JcNDA0Tm90Rm91bmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/COMP-2139/TEMP/wednesday/comp2139_assignment_2/comp2139_assignment_1-main/Assignment_2/Views/Error/505ServerError.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJyb3JcNTA1U2VydmVyRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/COMP-2139/TEMP/wednesday/comp2139_assignment_2/comp2139_assignment_1-main/Assignment_2/Views/Home/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/COMP-2139/TEMP/wednesday/comp2139_assignment_2/comp2139_assignment_1-main/Assignment_2/Views/Home/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/COMP-2139/TEMP/wednesday/comp2139_assignment_2/comp2139_assignment_1-main/Assignment_2/Views/Home/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/COMP-2139/TEMP/wednesday/comp2139_assignment_2/comp2139_assignment_1-main/Assignment_2/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/COMP-2139/TEMP/wednesday/comp2139_assignment_2/comp2139_assignment_1-main/Assignment_2/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/COMP-2139/TEMP/wednesday/comp2139_assignment_2/comp2139_assignment_1-main/Assignment_2/Views/Profile/ManageProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmlsZVxNYW5hZ2VQcm9maWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/COMP-2139/TEMP/wednesday/comp2139_assignment_2/comp2139_assignment_1-main/Assignment_2/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/COMP-2139/TEMP/wednesday/comp2139_assignment_2/comp2139_assignment_1-main/Assignment_2/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/COMP-2139/TEMP/wednesday/comp2139_assignment_2/comp2139_assignment_1-main/Assignment_2/Views/User/placeorder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxwbGFjZW9yZGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/COMP-2139/TEMP/wednesday/comp2139_assignment_2/comp2139_assignment_1-main/Assignment_2/Views/User/ViewInventory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxWaWV3SW52ZW50b3J5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/COMP-2139/TEMP/wednesday/comp2139_assignment_2/comp2139_assignment_1-main/Assignment_2/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/COMP-2139/TEMP/wednesday/comp2139_assignment_2/comp2139_assignment_1-main/Assignment_2/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/COMP-2139/TEMP/wednesday/comp2139_assignment_2/comp2139_assignment_1-main/Assignment_2/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-nlblkewudq

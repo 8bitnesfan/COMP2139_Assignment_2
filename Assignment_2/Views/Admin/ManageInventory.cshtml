@@ -1,0 +1,66 @@
+@using System.ComponentModel
+
+@{
+    ViewData["Title"] = "Manage Inventory";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<h3>Manage Products</h3>
+<a asp-action="AddProduct" class="btn btn-primary mb-3">Add a Product</a>
+<table class="table">
+    <thead>
+    <tr>
+        <th>Product Name</th>
+        <th>Category</th>
+        <th>Price</th>
+        <th>Quantity</th>
+    </tr>
+    </thead>
+    <tbody>
+    @if (Model != null && Model.Products != null)
+    {
+        @foreach (var product in Model.Products)
+        {
+            <tr>
+                <td>@product.name</td>
+                <td>@product.category</td>
+                <td>@product.price</td>
+                <td>@product.quantity</td>
+                <td>
+                    <a asp-action="EditProduct" asp-route-id="@product.id" class="btn btn-warning btn-sm">Edit</a>
+                    <a asp-action="DeleteProduct" asp-route-id="@product.id" class="btn btn-warning btn-sm">Delete</a>
+                </td>
+            </tr>
+        }
+    }
+    </tbody>
+</table>
+
+<h3>Manage Categories</h3>
+<a asp-action="AddCategory" class="btn btn-primary mb-3">Add a Category</a>
+<table class="table">
+    <thead>
+    <tr>
+        <th>Category Name</th>
+        <th>Description</th>
+    </tr>
+    </thead>
+    <tbody>
+    @if (Model != null && Model.Categories != null)
+    {
+        @foreach (var category in Model.Categories)
+        {
+            <tr>
+                <td>@category.name</td>
+                <td>@category.description</td>
+                <td>
+                    <a asp-action="EditCategory" asp-route-id="@category.id" class="btn btn-warning btn-sm">Edit</a>
+                    <a asp-action="DeleteCategory" asp-route-id="@category.id" class="btn btn-warning btn-sm">Delete</a>
+                </td>
+            </tr>
+        }
+    }
+    </tbody>
+</table>
+
