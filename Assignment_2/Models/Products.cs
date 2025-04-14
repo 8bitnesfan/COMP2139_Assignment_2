@@ -6,7 +6,10 @@ namespace Assignment_1.Models
     {
         [Key]
         public int ProductId { get; set; }
+        
+        [Required(ErrorMessage = "The Name field is required.")]
         public string Name { get; set; }
+
         public string Description { get; set; }
         public decimal Price { get; set; }
         public int QuantityInStock { get; set; }
@@ -22,7 +25,7 @@ namespace Assignment_1.Models
         public List<Products_Orders> Products_Orders { get; set; }
         
         
-        public bool Selected { get; set; } // bool to tell if the item has been selectd or not
+        public bool Selected { get; set; } 
         
     }
 }

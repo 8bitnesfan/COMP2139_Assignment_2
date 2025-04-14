@@ -56,6 +56,7 @@ public class AccountController : Controller
     [Authorize] 
     public async Task<IActionResult> Logout()
     {
+        HttpContext.Session.Clear();
         await _signInManager.SignOutAsync();
         return RedirectToAction("Login", "Account");
     }
@@ -76,22 +77,31 @@ public class AccountController : Controller
     public async Task<IActionResult> Register(RegisterModel model)
     {
         if (!ModelState.IsValid)
+        {
+            Console.WriteLine("Model validation failed.");
             return View(model);
+        }
+        
+        var user = new ApplicationUser
+        {
+            UserName = model.Email,
+            Email = model.Email,
+            FullName = $"{model.FirstName} {model.LastName}"
+        };
 
-        var user = new ApplicationUser { UserName = model.Email, Email = model.Email };
         var result = await _userManager.CreateAsync(user, model.Password);
 
-        if (result.Succeeded)
+        if (!result.Succeeded)
         {
-            await _userManager.AddToRoleAsync(user, "User");
-            await _signInManager.SignInAsync(user, isPersistent: true);
-            return RedirectToAction("Index", "Home");
+            foreach (var error in result.Errors)
+            {
+                ModelState.AddModelError("", error.Description);
+            }
+            return View(model);
         }
 
-        foreach (var error in result.Errors)
-            ModelState.AddModelError(string.Empty, error.Description);
-
-        return View(model);
+        await _signInManager.SignInAsync(user, isPersistent: true);
+        return RedirectToAction("Index", "Home");
     }
     
     [HttpGet]
@@ -114,13 +124,13 @@ public class AccountController : Controller
         var user = await _userManager.FindByEmailAsync(model.Email);
         if (user == null || !(await _userManager.IsEmailConfirmedAsync(user)))
         {
-            return RedirectToAction("ForgotPasswordConfirmation");
+            return RedirectToAction("ResetPassword");
         }
 
         var token = await _userManager.GeneratePasswordResetTokenAsync(user);
         var resetLink = Url.Action("ResetPassword", "Account", new { token, email = model.Email }, Request.Scheme);
         
-        return RedirectToAction("ForgotPasswordConfirmation");
+        return RedirectToAction("ResetPassword");
     }
     
     [HttpGet]
@@ -142,14 +152,17 @@ public class AccountController : Controller
         var user = await _userManager.FindByEmailAsync(model.Email);
         if (user == null)
         {
-            return RedirectToAction("ResetPasswordConfirmation");
+            ModelState.AddModelError(string.Empty, "Invalid email address.");
+            return View(model);
         }
 
         var result = await _userManager.ResetPasswordAsync(user, model.Token, model.Password);
         if (result.Succeeded)
         {
-            return RedirectToAction("ResetPasswordConfirmation");
+            TempData["SuccessMessage"] = "Your password has been reset successfully. Please log in.";
+            return RedirectToAction("Login", "Account");
         }
+
 
         foreach (var error in result.Errors)
         {
@@ -159,10 +172,5 @@ public class AccountController : Controller
         return View(model);
     }
     
-    [HttpGet]
-    [AllowAnonymous]
-    public IActionResult ResetPasswordConfirmation()
-    {
-        return View();
-    }
+    
 }

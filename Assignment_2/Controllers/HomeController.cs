@@ -14,8 +14,7 @@ namespace Assignment_1.Controllers
         {
             _logger = logger;
         }
-
-        // Index is accessible to everyone—no forced redirect loops!
+        
         public IActionResult Index()
         {
             _logger.LogInformation("User accessed Home/Index.");
@@ -26,16 +25,14 @@ namespace Assignment_1.Controllers
         {
             return View();
         }
-
-        // GET: /Home/Create (Requires Authentication)
+        
         [Authorize]
         public IActionResult Create()
         {
             _logger.LogInformation("Authenticated user accessed Home/Create.");
             return View();
         }
-
-        // POST: /Home/Create
+        
         [HttpPost]
         [Authorize]
         [ValidateAntiForgeryToken]

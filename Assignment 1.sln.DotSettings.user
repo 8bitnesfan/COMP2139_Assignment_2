@@ -1,0 +1,20 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=215c520c_002D6b1d_002D43a2_002Dbfe3_002D7fb4eba7cb63/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Name_ShouldNotBeEmpty" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::EE1EA384-8816-4626-87FE-A8B4C06A6208::net9.0::Assignment_2.Models.ProductModelTests.Name_ShouldNotBeEmpty&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=47c324db_002D13d5_002D4714_002D8254_002D5d3e8b538e17/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ProductName_ShouldNotBeEmpty" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::EE1EA384-8816-4626-87FE-A8B4C06A6208::net9.0::ProductModelTests.ProductName_ShouldNotBeEmpty&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=49cc8d33_002D0b3d_002D4353_002D8d68_002Dcf89f5b90deb/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from ProductModelTests.cs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;ProjectFile&gt;EE1EA384-8816-4626-87FE-A8B4C06A6208/d:UnitTests/f:ProductModelTests.cs&lt;/ProjectFile&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a82e4d1c_002D7fe8_002D4bba_002Dbc34_002Dbe994f55dd07/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ProductModelTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::EE1EA384-8816-4626-87FE-A8B4C06A6208::net9.0::Assignment_2.Models.ProductModelTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::EE1EA384-8816-4626-87FE-A8B4C06A6208::net9.0::AccountControllerTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

@@ -8,7 +8,11 @@
 
 <form asp-action="Login" method="post">
     <input type="hidden" name="returnUrl" value="@ViewData["ReturnUrl"]" />
-    
+
+    @if (TempData["SuccessMessage"] != null)
+    {
+        <div class="alert alert-success">@TempData["SuccessMessage"]</div>
+    }
 
     <div class="form-group">
         <label asp-for="Email" class="control-label"></label>
@@ -20,7 +24,11 @@
         <input asp-for="Password" class="form-control" />
         <span asp-validation-for="Password" class="text-danger"></span>
     </div>
-    <button type="submit" class="btn btn-primary">Login</button>
+    
+    <form asp-action="Login" asp-controller="Account" method="post">
+        <button type="submit" class="btn btn-primary">Login</button>
+    </form>
+    
 </form>
 
 <div>

@@ -24,10 +24,14 @@ public class RegisterModel
     [DataType(DataType.Password)]
     [Compare("Password", ErrorMessage = "Passwords do not match")]
     public string ConfirmPassword { get; set; }
+    
+    public string FullName => $"{FirstName} {LastName}";
+
 
     [Display(Name = "Contact Information (optional)")]
-    public string ContactInfo { get; set; }
+    public string? ContactInfo { get; set; } 
 
     [Display(Name = "Preferred Categories (optional)")]
-    public string PreferredCategories { get; set; }
+    public string? PreferredCategories { get; set; }
+
 }

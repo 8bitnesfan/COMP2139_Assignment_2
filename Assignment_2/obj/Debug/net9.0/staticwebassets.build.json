@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "dbSV73HYNH3DP+o7l2Gmb6mJNbghMmWXAwP571lmnYE=",
+  "Hash": "PekXDyOkmdED1Y3td8deVF6hoN2T/vn2WAlY6PV8Wb8=",
   "Source": "Assignment_2",
   "BasePath": "_content/Assignment_2",
   "Mode": "Default",
@@ -458,12 +458,12 @@
       "OriginalItemSpec": "C:\\Projects\\COMP-2139\\TEMP\\wednesday\\comp2139_assignment_2\\comp2139_assignment_1-main\\Assignment_2\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Projects\\COMP-2139\\TEMP\\wednesday\\comp2139_assignment_2\\comp2139_assignment_1-main\\Assignment_2\\obj\\Debug\\net9.0\\compressed\\bk8j9p9jka-zr9qnncpvn.gz",
+      "Identity": "C:\\Projects\\COMP-2139\\TEMP\\wednesday\\comp2139_assignment_2\\comp2139_assignment_1-main\\Assignment_2\\obj\\Debug\\net9.0\\compressed\\bk8j9p9jka-crhcjf8v7z.gz",
       "SourceId": "Assignment_2",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Projects\\COMP-2139\\TEMP\\wednesday\\comp2139_assignment_2\\comp2139_assignment_1-main\\Assignment_2\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Assignment_2",
-      "RelativePath": "Assignment_2#[.{fingerprint=zr9qnncpvn}]!.bundle.scp.css.gz",
+      "RelativePath": "Assignment_2#[.{fingerprint=crhcjf8v7z}]!.bundle.scp.css.gz",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Alternative",
@@ -472,8 +472,8 @@
       "RelatedAsset": "C:\\Projects\\COMP-2139\\TEMP\\wednesday\\comp2139_assignment_2\\comp2139_assignment_1-main\\Assignment_2\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Assignment_2.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "cdzyzeifbt",
-      "Integrity": "kMLCX7I1UxBalEvEWoYn6r83CsGZhXoxn8Qa13hR6Xc=",
+      "Fingerprint": "xfvg5dr74g",
+      "Integrity": "LezUYIEgfs0yUGT9t5v5C8zAvCN/OGweJhofkVZYAkY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Projects\\COMP-2139\\TEMP\\wednesday\\comp2139_assignment_2\\comp2139_assignment_1-main\\Assignment_2\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Assignment_2.bundle.scp.css"
@@ -1214,12 +1214,12 @@
       "OriginalItemSpec": "C:\\Projects\\COMP-2139\\TEMP\\wednesday\\comp2139_assignment_2\\comp2139_assignment_1-main\\Assignment_2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Projects\\COMP-2139\\TEMP\\wednesday\\comp2139_assignment_2\\comp2139_assignment_1-main\\Assignment_2\\obj\\Debug\\net9.0\\compressed\\u7hguomt3m-zr9qnncpvn.gz",
+      "Identity": "C:\\Projects\\COMP-2139\\TEMP\\wednesday\\comp2139_assignment_2\\comp2139_assignment_1-main\\Assignment_2\\obj\\Debug\\net9.0\\compressed\\u7hguomt3m-crhcjf8v7z.gz",
       "SourceId": "Assignment_2",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Projects\\COMP-2139\\TEMP\\wednesday\\comp2139_assignment_2\\comp2139_assignment_1-main\\Assignment_2\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Assignment_2",
-      "RelativePath": "Assignment_2#[.{fingerprint=zr9qnncpvn}]?.styles.css.gz",
+      "RelativePath": "Assignment_2#[.{fingerprint=crhcjf8v7z}]?.styles.css.gz",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Alternative",
@@ -1228,8 +1228,8 @@
       "RelatedAsset": "C:\\Projects\\COMP-2139\\TEMP\\wednesday\\comp2139_assignment_2\\comp2139_assignment_1-main\\Assignment_2\\obj\\Debug\\net9.0\\scopedcss\\bundle\\Assignment_2.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "cdzyzeifbt",
-      "Integrity": "kMLCX7I1UxBalEvEWoYn6r83CsGZhXoxn8Qa13hR6Xc=",
+      "Fingerprint": "xfvg5dr74g",
+      "Integrity": "LezUYIEgfs0yUGT9t5v5C8zAvCN/OGweJhofkVZYAkY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Projects\\COMP-2139\\TEMP\\wednesday\\comp2139_assignment_2\\comp2139_assignment_1-main\\Assignment_2\\obj\\Debug\\net9.0\\scopedcss\\bundle\\Assignment_2.styles.css"
@@ -1375,8 +1375,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "zr9qnncpvn",
-      "Integrity": "ARk3ULHyQ168RDv6nXbGH4SPyyHlRMbD/FkJYkrWCeU=",
+      "Fingerprint": "crhcjf8v7z",
+      "Integrity": "GEyLqQndoOny17beuNAP3WzWkKlCYFVUHTjZhAnQql8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Projects\\COMP-2139\\TEMP\\wednesday\\comp2139_assignment_2\\comp2139_assignment_1-main\\Assignment_2\\obj\\Debug\\net9.0\\scopedcss\\bundle\\Assignment_2.styles.css"
@@ -1396,8 +1396,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "zr9qnncpvn",
-      "Integrity": "ARk3ULHyQ168RDv6nXbGH4SPyyHlRMbD/FkJYkrWCeU=",
+      "Fingerprint": "crhcjf8v7z",
+      "Integrity": "GEyLqQndoOny17beuNAP3WzWkKlCYFVUHTjZhAnQql8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Projects\\COMP-2139\\TEMP\\wednesday\\comp2139_assignment_2\\comp2139_assignment_1-main\\Assignment_2\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Assignment_2.bundle.scp.css"
@@ -2729,7 +2729,7 @@
   "Endpoints": [
     {
       "Route": "Assignment_2.bundle.scp.css",
-      "AssetFile": "C:\\Projects\\COMP-2139\\TEMP\\wednesday\\comp2139_assignment_2\\comp2139_assignment_1-main\\Assignment_2\\obj\\Debug\\net9.0\\compressed\\bk8j9p9jka-zr9qnncpvn.gz",
+      "AssetFile": "C:\\Projects\\COMP-2139\\TEMP\\wednesday\\comp2139_assignment_2\\comp2139_assignment_1-main\\Assignment_2\\obj\\Debug\\net9.0\\compressed\\bk8j9p9jka-crhcjf8v7z.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2748,11 +2748,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"kMLCX7I1UxBalEvEWoYn6r83CsGZhXoxn8Qa13hR6Xc=\""
+          "Value": "\"LezUYIEgfs0yUGT9t5v5C8zAvCN/OGweJhofkVZYAkY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 18:52:11 GMT"
+          "Value": "Mon, 14 Apr 2025 00:08:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2772,13 +2772,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"ARk3ULHyQ168RDv6nXbGH4SPyyHlRMbD/FkJYkrWCeU=\""
+          "Value": "W/\"GEyLqQndoOny17beuNAP3WzWkKlCYFVUHTjZhAnQql8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ARk3ULHyQ168RDv6nXbGH4SPyyHlRMbD/FkJYkrWCeU="
+          "Value": "sha256-GEyLqQndoOny17beuNAP3WzWkKlCYFVUHTjZhAnQql8="
         }
       ]
     },
@@ -2801,11 +2801,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ARk3ULHyQ168RDv6nXbGH4SPyyHlRMbD/FkJYkrWCeU=\""
+          "Value": "\"GEyLqQndoOny17beuNAP3WzWkKlCYFVUHTjZhAnQql8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 18:52:11 GMT"
+          "Value": "Mon, 14 Apr 2025 00:08:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2815,13 +2815,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ARk3ULHyQ168RDv6nXbGH4SPyyHlRMbD/FkJYkrWCeU="
+          "Value": "sha256-GEyLqQndoOny17beuNAP3WzWkKlCYFVUHTjZhAnQql8="
         }
       ]
     },
     {
       "Route": "Assignment_2.bundle.scp.css.gz",
-      "AssetFile": "C:\\Projects\\COMP-2139\\TEMP\\wednesday\\comp2139_assignment_2\\comp2139_assignment_1-main\\Assignment_2\\obj\\Debug\\net9.0\\compressed\\bk8j9p9jka-zr9qnncpvn.gz",
+      "AssetFile": "C:\\Projects\\COMP-2139\\TEMP\\wednesday\\comp2139_assignment_2\\comp2139_assignment_1-main\\Assignment_2\\obj\\Debug\\net9.0\\compressed\\bk8j9p9jka-crhcjf8v7z.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2838,11 +2838,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"kMLCX7I1UxBalEvEWoYn6r83CsGZhXoxn8Qa13hR6Xc=\""
+          "Value": "\"LezUYIEgfs0yUGT9t5v5C8zAvCN/OGweJhofkVZYAkY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 18:52:11 GMT"
+          "Value": "Mon, 14 Apr 2025 00:08:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2860,13 +2860,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-kMLCX7I1UxBalEvEWoYn6r83CsGZhXoxn8Qa13hR6Xc="
+          "Value": "sha256-LezUYIEgfs0yUGT9t5v5C8zAvCN/OGweJhofkVZYAkY="
         }
       ]
     },
     {
-      "Route": "Assignment_2.styles.css",
-      "AssetFile": "C:\\Projects\\COMP-2139\\TEMP\\wednesday\\comp2139_assignment_2\\comp2139_assignment_1-main\\Assignment_2\\obj\\Debug\\net9.0\\compressed\\u7hguomt3m-zr9qnncpvn.gz",
+      "Route": "Assignment_2.crhcjf8v7z.bundle.scp.css",
+      "AssetFile": "C:\\Projects\\COMP-2139\\TEMP\\wednesday\\comp2139_assignment_2\\comp2139_assignment_1-main\\Assignment_2\\obj\\Debug\\net9.0\\compressed\\bk8j9p9jka-crhcjf8v7z.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2885,148 +2885,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"kMLCX7I1UxBalEvEWoYn6r83CsGZhXoxn8Qa13hR6Xc=\""
+          "Value": "\"LezUYIEgfs0yUGT9t5v5C8zAvCN/OGweJhofkVZYAkY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 18:52:11 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"ARk3ULHyQ168RDv6nXbGH4SPyyHlRMbD/FkJYkrWCeU=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-ARk3ULHyQ168RDv6nXbGH4SPyyHlRMbD/FkJYkrWCeU="
-        }
-      ]
-    },
-    {
-      "Route": "Assignment_2.styles.css",
-      "AssetFile": "C:\\Projects\\COMP-2139\\TEMP\\wednesday\\comp2139_assignment_2\\comp2139_assignment_1-main\\Assignment_2\\obj\\Debug\\net9.0\\scopedcss\\bundle\\Assignment_2.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1130"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ARk3ULHyQ168RDv6nXbGH4SPyyHlRMbD/FkJYkrWCeU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 18:52:11 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-ARk3ULHyQ168RDv6nXbGH4SPyyHlRMbD/FkJYkrWCeU="
-        }
-      ]
-    },
-    {
-      "Route": "Assignment_2.styles.css.gz",
-      "AssetFile": "C:\\Projects\\COMP-2139\\TEMP\\wednesday\\comp2139_assignment_2\\comp2139_assignment_1-main\\Assignment_2\\obj\\Debug\\net9.0\\compressed\\u7hguomt3m-zr9qnncpvn.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "540"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"kMLCX7I1UxBalEvEWoYn6r83CsGZhXoxn8Qa13hR6Xc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 18:52:11 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-kMLCX7I1UxBalEvEWoYn6r83CsGZhXoxn8Qa13hR6Xc="
-        }
-      ]
-    },
-    {
-      "Route": "Assignment_2.zr9qnncpvn.bundle.scp.css",
-      "AssetFile": "C:\\Projects\\COMP-2139\\TEMP\\wednesday\\comp2139_assignment_2\\comp2139_assignment_1-main\\Assignment_2\\obj\\Debug\\net9.0\\compressed\\bk8j9p9jka-zr9qnncpvn.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001848428835"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "540"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"kMLCX7I1UxBalEvEWoYn6r83CsGZhXoxn8Qa13hR6Xc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 18:52:11 GMT"
+          "Value": "Mon, 14 Apr 2025 00:08:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3046,13 +2909,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"ARk3ULHyQ168RDv6nXbGH4SPyyHlRMbD/FkJYkrWCeU=\""
+          "Value": "W/\"GEyLqQndoOny17beuNAP3WzWkKlCYFVUHTjZhAnQql8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "zr9qnncpvn"
+          "Value": "crhcjf8v7z"
         },
         {
           "Name": "label",
@@ -3060,12 +2923,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ARk3ULHyQ168RDv6nXbGH4SPyyHlRMbD/FkJYkrWCeU="
+          "Value": "sha256-GEyLqQndoOny17beuNAP3WzWkKlCYFVUHTjZhAnQql8="
         }
       ]
     },
     {
-      "Route": "Assignment_2.zr9qnncpvn.bundle.scp.css",
+      "Route": "Assignment_2.crhcjf8v7z.bundle.scp.css",
       "AssetFile": "C:\\Projects\\COMP-2139\\TEMP\\wednesday\\comp2139_assignment_2\\comp2139_assignment_1-main\\Assignment_2\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Assignment_2.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3083,11 +2946,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ARk3ULHyQ168RDv6nXbGH4SPyyHlRMbD/FkJYkrWCeU=\""
+          "Value": "\"GEyLqQndoOny17beuNAP3WzWkKlCYFVUHTjZhAnQql8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 18:52:11 GMT"
+          "Value": "Mon, 14 Apr 2025 00:08:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3097,7 +2960,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "zr9qnncpvn"
+          "Value": "crhcjf8v7z"
         },
         {
           "Name": "label",
@@ -3105,13 +2968,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ARk3ULHyQ168RDv6nXbGH4SPyyHlRMbD/FkJYkrWCeU="
+          "Value": "sha256-GEyLqQndoOny17beuNAP3WzWkKlCYFVUHTjZhAnQql8="
         }
       ]
     },
     {
-      "Route": "Assignment_2.zr9qnncpvn.bundle.scp.css.gz",
-      "AssetFile": "C:\\Projects\\COMP-2139\\TEMP\\wednesday\\comp2139_assignment_2\\comp2139_assignment_1-main\\Assignment_2\\obj\\Debug\\net9.0\\compressed\\bk8j9p9jka-zr9qnncpvn.gz",
+      "Route": "Assignment_2.crhcjf8v7z.bundle.scp.css.gz",
+      "AssetFile": "C:\\Projects\\COMP-2139\\TEMP\\wednesday\\comp2139_assignment_2\\comp2139_assignment_1-main\\Assignment_2\\obj\\Debug\\net9.0\\compressed\\bk8j9p9jka-crhcjf8v7z.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3128,11 +2991,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"kMLCX7I1UxBalEvEWoYn6r83CsGZhXoxn8Qa13hR6Xc=\""
+          "Value": "\"LezUYIEgfs0yUGT9t5v5C8zAvCN/OGweJhofkVZYAkY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 18:52:11 GMT"
+          "Value": "Mon, 14 Apr 2025 00:08:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3150,7 +3013,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "zr9qnncpvn"
+          "Value": "crhcjf8v7z"
         },
         {
           "Name": "label",
@@ -3158,13 +3021,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-kMLCX7I1UxBalEvEWoYn6r83CsGZhXoxn8Qa13hR6Xc="
+          "Value": "sha256-LezUYIEgfs0yUGT9t5v5C8zAvCN/OGweJhofkVZYAkY="
         }
       ]
     },
     {
-      "Route": "Assignment_2.zr9qnncpvn.styles.css",
-      "AssetFile": "C:\\Projects\\COMP-2139\\TEMP\\wednesday\\comp2139_assignment_2\\comp2139_assignment_1-main\\Assignment_2\\obj\\Debug\\net9.0\\compressed\\u7hguomt3m-zr9qnncpvn.gz",
+      "Route": "Assignment_2.crhcjf8v7z.styles.css",
+      "AssetFile": "C:\\Projects\\COMP-2139\\TEMP\\wednesday\\comp2139_assignment_2\\comp2139_assignment_1-main\\Assignment_2\\obj\\Debug\\net9.0\\compressed\\u7hguomt3m-crhcjf8v7z.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3183,11 +3046,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"kMLCX7I1UxBalEvEWoYn6r83CsGZhXoxn8Qa13hR6Xc=\""
+          "Value": "\"LezUYIEgfs0yUGT9t5v5C8zAvCN/OGweJhofkVZYAkY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 18:52:11 GMT"
+          "Value": "Mon, 14 Apr 2025 00:08:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3207,13 +3070,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"ARk3ULHyQ168RDv6nXbGH4SPyyHlRMbD/FkJYkrWCeU=\""
+          "Value": "W/\"GEyLqQndoOny17beuNAP3WzWkKlCYFVUHTjZhAnQql8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "zr9qnncpvn"
+          "Value": "crhcjf8v7z"
         },
         {
           "Name": "label",
@@ -3221,12 +3084,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ARk3ULHyQ168RDv6nXbGH4SPyyHlRMbD/FkJYkrWCeU="
+          "Value": "sha256-GEyLqQndoOny17beuNAP3WzWkKlCYFVUHTjZhAnQql8="
         }
       ]
     },
     {
-      "Route": "Assignment_2.zr9qnncpvn.styles.css",
+      "Route": "Assignment_2.crhcjf8v7z.styles.css",
       "AssetFile": "C:\\Projects\\COMP-2139\\TEMP\\wednesday\\comp2139_assignment_2\\comp2139_assignment_1-main\\Assignment_2\\obj\\Debug\\net9.0\\scopedcss\\bundle\\Assignment_2.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3244,11 +3107,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ARk3ULHyQ168RDv6nXbGH4SPyyHlRMbD/FkJYkrWCeU=\""
+          "Value": "\"GEyLqQndoOny17beuNAP3WzWkKlCYFVUHTjZhAnQql8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 18:52:11 GMT"
+          "Value": "Mon, 14 Apr 2025 00:08:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3258,7 +3121,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "zr9qnncpvn"
+          "Value": "crhcjf8v7z"
         },
         {
           "Name": "label",
@@ -3266,13 +3129,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ARk3ULHyQ168RDv6nXbGH4SPyyHlRMbD/FkJYkrWCeU="
+          "Value": "sha256-GEyLqQndoOny17beuNAP3WzWkKlCYFVUHTjZhAnQql8="
         }
       ]
     },
     {
-      "Route": "Assignment_2.zr9qnncpvn.styles.css.gz",
-      "AssetFile": "C:\\Projects\\COMP-2139\\TEMP\\wednesday\\comp2139_assignment_2\\comp2139_assignment_1-main\\Assignment_2\\obj\\Debug\\net9.0\\compressed\\u7hguomt3m-zr9qnncpvn.gz",
+      "Route": "Assignment_2.crhcjf8v7z.styles.css.gz",
+      "AssetFile": "C:\\Projects\\COMP-2139\\TEMP\\wednesday\\comp2139_assignment_2\\comp2139_assignment_1-main\\Assignment_2\\obj\\Debug\\net9.0\\compressed\\u7hguomt3m-crhcjf8v7z.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3289,11 +3152,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"kMLCX7I1UxBalEvEWoYn6r83CsGZhXoxn8Qa13hR6Xc=\""
+          "Value": "\"LezUYIEgfs0yUGT9t5v5C8zAvCN/OGweJhofkVZYAkY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 18:52:11 GMT"
+          "Value": "Mon, 14 Apr 2025 00:08:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3311,7 +3174,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "zr9qnncpvn"
+          "Value": "crhcjf8v7z"
         },
         {
           "Name": "label",
@@ -3319,7 +3182,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-kMLCX7I1UxBalEvEWoYn6r83CsGZhXoxn8Qa13hR6Xc="
+          "Value": "sha256-LezUYIEgfs0yUGT9t5v5C8zAvCN/OGweJhofkVZYAkY="
+        }
+      ]
+    },
+    {
+      "Route": "Assignment_2.styles.css",
+      "AssetFile": "C:\\Projects\\COMP-2139\\TEMP\\wednesday\\comp2139_assignment_2\\comp2139_assignment_1-main\\Assignment_2\\obj\\Debug\\net9.0\\compressed\\u7hguomt3m-crhcjf8v7z.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001848428835"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "540"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LezUYIEgfs0yUGT9t5v5C8zAvCN/OGweJhofkVZYAkY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 00:08:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"GEyLqQndoOny17beuNAP3WzWkKlCYFVUHTjZhAnQql8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GEyLqQndoOny17beuNAP3WzWkKlCYFVUHTjZhAnQql8="
+        }
+      ]
+    },
+    {
+      "Route": "Assignment_2.styles.css",
+      "AssetFile": "C:\\Projects\\COMP-2139\\TEMP\\wednesday\\comp2139_assignment_2\\comp2139_assignment_1-main\\Assignment_2\\obj\\Debug\\net9.0\\scopedcss\\bundle\\Assignment_2.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1130"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GEyLqQndoOny17beuNAP3WzWkKlCYFVUHTjZhAnQql8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 00:08:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GEyLqQndoOny17beuNAP3WzWkKlCYFVUHTjZhAnQql8="
+        }
+      ]
+    },
+    {
+      "Route": "Assignment_2.styles.css.gz",
+      "AssetFile": "C:\\Projects\\COMP-2139\\TEMP\\wednesday\\comp2139_assignment_2\\comp2139_assignment_1-main\\Assignment_2\\obj\\Debug\\net9.0\\compressed\\u7hguomt3m-crhcjf8v7z.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "540"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LezUYIEgfs0yUGT9t5v5C8zAvCN/OGweJhofkVZYAkY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 00:08:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LezUYIEgfs0yUGT9t5v5C8zAvCN/OGweJhofkVZYAkY="
         }
       ]
     },
